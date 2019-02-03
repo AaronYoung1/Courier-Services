@@ -1,0 +1,18 @@
+---
+ID: 85
+post_title: Business Cooperation
+author: AaronYoung
+post_excerpt: ""
+layout: page
+permalink: >
+  http://localhost:8888/post/business-cooperation/
+published: true
+post_date: 2019-01-25 22:55:42
+---
+<div id="pl-85"  class="panel-layout" ><div id="pg-85-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-85-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-85-0-0-0" class="so-panel widget widget_sow-image panel-first-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;animation_once&quot;:&quot;&quot;}" >[siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:453,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;large&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title_align&quot;:&quot;default&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;_sow_form_id&quot;:&quot;12908187035c56e02323ea8365965023&quot;,&quot;_sow_form_timestamp&quot;:&quot;1549197814010&quot;,&quot;eds_animation_class&quot;:&quot;&quot;,&quot;animation&quot;:&quot;&quot;,&quot;anchor&quot;:&quot;&quot;,&quot;anchor-placement&quot;:&quot;&quot;,&quot;easing&quot;:&quot;&quot;,&quot;offset&quot;:&quot;&quot;,&quot;duration&quot;:&quot;&quot;,&quot;delay&quot;:&quot;&quot;,&quot;new_window&quot;:false,&quot;full_width&quot;:false,&quot;once&quot;:0,&quot;so_sidebar_emulator_id&quot;:&quot;sow-image-8510000&quot;,&quot;option_name&quot;:&quot;widget_sow-image&quot;},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-85-0-0-0\&quot; class=\&quot;so-panel widget widget_sow-image panel-first-child\&quot; data-index=\&quot;0\&quot; data-style=\&quot;{&amp;quot;background_image_attachment&amp;quot;:false,&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;,&amp;quot;animation_once&amp;quot;:&amp;quot;&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-0-0-0&quot;}}" />[/siteorigin_widget]</div><div id="panel-85-0-0-1" class="so-panel widget widget_sow-editor panel-last-child" data-index="1" data-style="{&quot;padding&quot;:&quot;0% 10% 0% 10%&quot;,&quot;mobile_padding&quot;:&quot;0px 10px 0px 10px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;animation_once&quot;:&quot;&quot;}" ><div class="panel-widget-style panel-widget-style-for-85-0-0-1" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p style="text-align: left;">本团队拥有多条自主开发的包邮包税线路，并与Parcelforce、DHL等知名物流公司有着官方合作关系，可提供从欧洲到中国各个省市和地区的各种包裹、文件的邮寄服务，以及商城代发、学生行李寄存和邮寄、标品定制等服务项目；并能做到从仓储到物流发货、从海外仓储到国内终端客户的一条龙服务，为大客户、零售客户、行业伙伴、跨境电商等不同客户群体提供具有竞争力的解决方案。</p>
+<p>我们提供全网最优惠的价格、最智能的系统（24小时在线自助下单、订单批量导入、API对接）、专业自营车队以及最专业的客户服务。如果您有以上合作需求或者想成为我们的代理，欢迎您随时与我们联络：</p>
+<p style="text-align: center;">微信： / 电话：</p>
+</div>
+</div></div></div></div></div></div>
