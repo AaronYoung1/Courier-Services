@@ -4,7 +4,7 @@ post_title: Online store
 author: AaronYoung
 post_excerpt: ""
 layout: page
-permalink: http://18.203.161.90/box/online-store/
+permalink: http://18.203.161.90/online-store/
 published: true
 post_date: 2019-01-25 22:52:21
 ---
