@@ -12,5 +12,7 @@ post_date: 2019-01-25 22:52:21
 <div class="siteorigin-widget-tinymce textwidget">
 	网上商城
 
-[product id="504"]</div>
+[product id="504"]
+[product id="530"]
+</div>
 </div></div></div></div></div>
