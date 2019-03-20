@@ -18,10 +18,14 @@ post_date: 2019-01-25 22:53:27
 <div style="float: left; width: 100%; display: flex; justify-content: space-between; margin: 0px 0px 15px 0px;"><label style="width: 33.2%; height: 40px; line-height: 40px; text-align: center; margin: 0 auto;">包裹单号</label></div>
 <div style="clear: both;"></div>
 <div style="width: 100%; float: left; display: flex; justify-content: space-between; padding: 0; margin: 0px 0px 20px 0px;" class="form-group is-empty">
-<textarea cols="10" placeholder="单号"></textarea>
-</div>
+<textarea cols="10" placeholder="单号">&lt;/textarea>
+</textarea></div>
 <div style="clear: both;"></div>
 <div style="float: left; width: 100%; display: flex; justify-content: space-between;"><button type="" class="btn-hover" style="background-color: #78b827; margin: 0 auto; height: 40px; outline: none; font-size: 16px; width: 120px; line-height: 40px; padding: 0 0 0 0;">点击查询</button></div>
 </div>
-</form></div>
+</form>
+
+< ?php 
+echo "Hello world!"; 
+?></div>
 </div></div></div></div></div>
