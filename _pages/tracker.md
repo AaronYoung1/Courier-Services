@@ -18,7 +18,8 @@ post_date: 2019-01-25 22:53:27
 <div style="float: left; width: 100%; display: flex; justify-content: space-between; margin: 0px 0px 15px 0px;"><label style="width: 33.2%; height: 40px; line-height: 40px; text-align: center; margin: 0 auto;">包裹单号</label></div>
 <div style="clear: both;"></div>
 <div style="width: 100%; float: left; display: flex; justify-content: space-between; padding: 0; margin: 0px 0px 20px 0px;" class="form-group is-empty">
-<textarea cols="8" rows="20">介绍一下自己</textarea></div>
+<textarea class="search-textarea" placeholder="&nbsp;&nbsp;每行一个单号" name="multi-num" id="textarea" autofocus="autofocus" spellcheck="false"></textarea>
+</div>
 <div style="clear: both;"></div>
 <div style="float: left; width: 100%; display: flex; justify-content: space-between;"><button type="" class="btn-hover" style="background-color: #78b827; margin: 0 auto; height: 40px; outline: none; font-size: 16px; width: 120px; line-height: 40px; padding: 0 0 0 0;">点击查询</button></div>
 </div>
