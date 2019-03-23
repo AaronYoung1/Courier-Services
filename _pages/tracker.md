@@ -4,7 +4,7 @@ post_title: Tracker
 author: AaronYoung
 post_excerpt: ""
 layout: page
-permalink: http://18.203.161.90/tracker/
+permalink: http://localhost:8888/post/tracker/
 published: true
 post_date: 2019-01-25 22:53:27
 ---
