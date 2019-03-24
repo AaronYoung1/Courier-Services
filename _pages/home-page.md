@@ -45,7 +45,7 @@ post_date: 2019-01-24 23:48:43
 <div class="siteorigin-widget-tinymce textwidget">
 	[edsanimate_start entry_animation_type= "fadeIn" entry_delay= "0" entry_duration= "2" entry_timing= "linear" exit_animation_type= "" exit_delay= "" exit_duration= "" exit_timing= "" animation_repeat= "1" keep= "yes" animate_on= "load" scroll_offset= "" custom_css_class= ""]
 
-<form method="post" action="/post/tracker/" class="form-group">
+<form method="post" action="<?php echo esc_url( get_permalink( get_page_by_title( 'Tracker' ) ) ); ?>" class="form-group">
 <div class="" style="background-color: #78b827; text-align: center;"><span style="font-size: 1.5em; margin: 0; color: #ffffff; line-height: 61px; letter-spacing: 6px;">物流进程查询</span></div>
 <div style="padding: 20px 16px 0px 16px; background-color: #f8f7f7; min-height: 200px;">
 <div style="float: left; width: 100%; display: flex; justify-content: space-between; margin: 0px 0px 15px 0px;"><label style="width: 33.2%; height: 40px; line-height: 40px; text-align: center; margin: 0 auto;">包裹单号</label></div>
