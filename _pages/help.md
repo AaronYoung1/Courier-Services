@@ -12,11 +12,11 @@ post_date: 2019-01-25 22:54:44
 <div class="siteorigin-widget-tinymce textwidget">
 	<h2 style="text-align: center;">帮助和支持</h2>
 
-<h5 style="text-align: center;">揽件方式地点1：8 moore street, Dublin 1</h5>
+<h5 style="text-align: center;">揽件地点1：8 moore street, Dublin 1</h5>
 <div style="text-align: center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.6139340784785!2d-6.26392326643215!3d53.35016677444958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e84085c8819%3A0x96a2c5f3e06afb0c!2s8+Moore+St%2C+North+City%2C+Dublin+1%2C+D01+X439!5e0!3m2!1sen!2sie!4v1555368379795!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 
 <br /><br />
-<h5 style="text-align: center;">揽件方式地点2：Hill St, Rotunda, Dublin</h5>
+<h5 style="text-align: center;">揽件地点2：Hill St, Rotunda, Dublin</h5>
 <div style="text-align: center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.8292897393464!2d-6.259567532164872!3d53.354341534157676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e87a55edd15%3A0xe1f53e6018e201b5!2z5b6u5ZWG6LaF5biC!5e0!3m2!1sen!2sie!4v1555368799606!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div></div>
 </div></div></div></div></div>
