@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-01-24 23:21:21
 ---
-<div id="pl-21"  class="panel-layout" ><div id="pg-21-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-21-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-21-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;animation_once&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div id="pl-21"  class="panel-layout" ><div id="pg-21-0"  class="panel-grid panel-has-style"  data-style="{&quot;padding&quot;:&quot;0% 10% 0% 10%&quot;,&quot;mobile_padding&quot;:&quot;0px 10px 0px 10px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div class="panel-row-style panel-row-style-for-21-0" ><div id="pgc-21-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-21-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;animation_once&quot;:&quot;&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<form method="get" action="" class="form-group" method="get">
 <div class="" style="background-color: #78b827; text-align: center;"><span style="font-size: 1.5em; margin: 0; color: #ffffff; line-height: 61px; letter-spacing: 6px;">快递价格查询</span></div>
@@ -35,4 +35,4 @@ post_date: 2019-01-24 23:21:21
 <div style="float: left; width: 50%; display: flex; justify-content: space-between;"><button type="submit" class="btn-hover" style="background-color: #78b827; margin: 0 auto; height: 40px; outline: none; font-size: 16px; width: 120px; line-height: 40px; padding: 0 0 0 0;">点击询价</button></div>
 </div>
 </form></div>
-</div></div></div></div></div>
+</div></div></div></div></div></div>
